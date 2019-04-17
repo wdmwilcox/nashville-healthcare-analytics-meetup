@@ -1,0 +1,7 @@
+distribution of average payment amount per DRG for top 100 DRGs by total payments
+	delete unneeded info
+	keep DRG Definition, Total Discharges, Average Total Payments
+	Create new column of Total Payments
+	Find top 100 DRGs
+		Aggregate Total Payment by DRG
+	Create Histogram of Payments and format bins
